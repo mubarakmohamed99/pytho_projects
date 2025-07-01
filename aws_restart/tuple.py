@@ -1,0 +1,6 @@
+myFinalAnserTuple= ("apple","banana","pineapple")
+print(myFinalAnserTuple)
+print(type(myFinalAnserTuple))
+print(myFinalAnserTuple[0])
+print(myFinalAnserTuple[1])
+print(myFinalAnserTuple[2])
